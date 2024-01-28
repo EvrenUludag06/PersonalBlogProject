@@ -1,0 +1,15 @@
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.Entities\obj\Debug\net6.0\PersonalBlog.Entities.csproj.AssemblyReference.cache
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.Entities\obj\Debug\net6.0\PersonalBlog.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.Entities\obj\Debug\net6.0\PersonalBlog.Entities.AssemblyInfoInputs.cache
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.Entities\obj\Debug\net6.0\PersonalBlog.Entities.AssemblyInfo.cs
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.Entities\obj\Debug\net6.0\PersonalBlog.Entities.csproj.CoreCompileInputs.cache
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.Entities\bin\Debug\net6.0\PersonalBlog.Entities.deps.json
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.Entities\bin\Debug\net6.0\PersonalBlog.Entities.dll
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.Entities\bin\Debug\net6.0\PersonalBlog.Entities.pdb
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.Entities\bin\Debug\net6.0\PersonalBlog.Shared.dll
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.Entities\bin\Debug\net6.0\PersonalBlog.Shared.pdb
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.Entities\obj\Debug\net6.0\PersonalBlog.Entities.csproj.CopyComplete
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.Entities\obj\Debug\net6.0\PersonalBlog.Entities.dll
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.Entities\obj\Debug\net6.0\refint\PersonalBlog.Entities.dll
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.Entities\obj\Debug\net6.0\PersonalBlog.Entities.pdb
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.Entities\obj\Debug\net6.0\ref\PersonalBlog.Entities.dll

@@ -1,0 +1,12 @@
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.Shared\obj\Debug\net6.0\PersonalBlog.Shared.csproj.AssemblyReference.cache
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.Shared\obj\Debug\net6.0\PersonalBlog.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.Shared\obj\Debug\net6.0\PersonalBlog.Shared.AssemblyInfoInputs.cache
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.Shared\obj\Debug\net6.0\PersonalBlog.Shared.AssemblyInfo.cs
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.Shared\obj\Debug\net6.0\PersonalBlog.Shared.csproj.CoreCompileInputs.cache
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.Shared\bin\Debug\net6.0\PersonalBlog.Shared.deps.json
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.Shared\bin\Debug\net6.0\PersonalBlog.Shared.dll
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.Shared\bin\Debug\net6.0\PersonalBlog.Shared.pdb
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.Shared\obj\Debug\net6.0\PersonalBlog.Shared.dll
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.Shared\obj\Debug\net6.0\refint\PersonalBlog.Shared.dll
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.Shared\obj\Debug\net6.0\PersonalBlog.Shared.pdb
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.Shared\obj\Debug\net6.0\ref\PersonalBlog.Shared.dll

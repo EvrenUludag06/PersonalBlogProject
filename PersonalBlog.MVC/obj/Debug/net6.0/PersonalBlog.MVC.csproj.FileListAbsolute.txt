@@ -1,0 +1,8 @@
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.MVC\obj\Debug\net6.0\PersonalBlog.MVC.csproj.AssemblyReference.cache
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.MVC\obj\Debug\net6.0\PersonalBlog.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.MVC\obj\Debug\net6.0\PersonalBlog.MVC.AssemblyInfoInputs.cache
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.MVC\obj\Debug\net6.0\PersonalBlog.MVC.AssemblyInfo.cs
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.MVC\obj\Debug\net6.0\PersonalBlog.MVC.csproj.CoreCompileInputs.cache
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.MVC\obj\Debug\net6.0\PersonalBlog.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.MVC\obj\Debug\net6.0\PersonalBlog.MVC.RazorAssemblyInfo.cache
+C:\Users\EVREN\Desktop\My Cv Project\MyPersonalBlogSite\PersonalBlog.MVC\obj\Debug\net6.0\PersonalBlog.MVC.RazorAssemblyInfo.cs
